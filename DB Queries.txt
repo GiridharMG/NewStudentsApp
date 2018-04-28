@@ -1,3 +1,4 @@
+--For Test
 DROP DATABASE IF EXISTS studentsapp_db;
 create database studentsapp_db;
 use studentsapp_db;
